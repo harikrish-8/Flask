@@ -4,12 +4,12 @@ A simple, clean Flask web application for managing student records with full CRU
 
 ## Features
 
-- ✅ **Add Students** - Create new student records with name and age
-- ✅ **View Students** - Display all students in a responsive table
-- ✅ **Update Students** - Edit student information inline
-- ✅ **Delete Students** - Remove students with confirmation dialog
-- 📱 **Responsive Design** - Works seamlessly on desktop and mobile devices
-- 💾 **In-Memory Storage** - Simple list-based data storage (no database required)
+-  **Add Students** - Create new student records with name and age
+-  **View Students** - Display all students in a responsive table
+-  **Update Students** - Edit student information inline
+-  **Delete Students** - Remove students with confirmation dialog
+-  **Responsive Design** - Works seamlessly on desktop and mobile devices
+-  **In-Memory Storage** - Simple list-based data storage (no database required)
 
 ## Project Structure
 
